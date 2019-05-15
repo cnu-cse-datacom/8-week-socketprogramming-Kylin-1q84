@@ -1,0 +1,26 @@
+Z-Wave Global Regions
+Where Z-Wave Works
+With over 94 million devices in homes worldwide, Z-Wave clearly has a global presence. Over time we will see Z-Wave become available in more and more countries. Currently the Z-Wave RF has been approved for the following countries:
+
+Albania, Algeria, Andorra, Argentina, Armenia, Australia, Austria, Azerbaijan
+Bahamas, Bahrain, Barbados, Belarus, Belgium, Bermuda, Bolivia, Bosnia and Herzegovina, Brazil, British Virgin Islands, Bulgaria
+Canada, Cayman Islands, Chile, China, Columbia, Costa Rica, Croatia, Cyprus, Czech Republic
+Denmark, Dominican Republic
+Ecuador, Egypt, El Salvador, Estonia
+Finland, France, French Guiana
+Germany, Greece, Guatemala
+Haiti, Honduras, Hong Kong, Hungary
+Iceland, India, Indonesia, Ireland, Israel, Italy
+Jamaica, Japan, Jordan
+Kazakhstan, Kuwait
+Latvia, Lebanon, Libya, Liechtenstein, Lithuania, Luxembourg
+Macedonia, Malaysia, Malta, Mauritius, Mexico, Moldova, Monaco, Montenegro
+Netherlands, New Zealand, Nicaragua, Nigeria, Norway
+Panama, Paraguay, Peru, Poland, Portugal
+Qatar
+Romania, Republic of Korea, Russian Federation
+San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Africa, South Korea, Spain, St. Kitts & Nevis, Sweden, Switzerland, Suriname
+Taiwan (China), Trinidad & Tabago, Turkmenistan, Turks & Caicos, Thailand
+Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay
+Vatican City
+Yemen
